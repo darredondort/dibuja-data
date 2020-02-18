@@ -30,7 +30,7 @@ Incorpora datos desde archivos JSON en tu código utilizando la función loadJSO
 
 ____
 
-## Datos:
+## Fuentes de datos:
 ### En el repositorio:
 - [data.world: Marine Animal Speed](https://data.world/jamesgray/marine-animal-speed)
 - [data.world: U.S. Immigrant Arrests, 2013-2017](https://data.world/carlvlewis/us-immigrant-arrests-2013-2017)
