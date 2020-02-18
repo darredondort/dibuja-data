@@ -70,7 +70,7 @@ function draw() {
   background(0,10,20);
 
   noStroke();
-  let title = "Toneladas anuales de resiudos sólidos desechados en México";
+  let title = "Toneladas anuales de residuos sólidos desechados en México";
   let subtitle = "Fuente: SEMARNAT";
 
   textFont("Monospace");
