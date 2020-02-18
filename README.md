@@ -33,7 +33,9 @@ ____
 ## Datos:
 ### En el repositorio:
 - [data.world: Marine Animal Speed](https://data.world/jamesgray/marine-animal-speed)
+- [data.world: U.S. Immigrant Arrests, 2013-2017](https://data.world/carlvlewis/us-immigrant-arrests-2013-2017)
 - [datos.gob.mx: Generación total y per cápita de residuos sólidos urbanos](https://datos.gob.mx/busca/dataset/indicadores-de-crecimiento-verde--produccion-y-consumo)
+- [datos.gob.mx: Hogares con conexión a Internet](https://datos.gob.mx/busca/dataset/hogares-con-conexion-a-internet-derechos-culturales-recepcion-del-derecho)
 
 ### Otros conjuntos de datos abiertos recomendados:
 #### data.world:
@@ -44,6 +46,21 @@ ____
 - [EEUU - U.S. Metro Areas Violent Crime Rates by Type, 1975-2015](https://data.world/carlvlewis/u-s-metro-areas-violent-crime-rates-by-type-1970-2015)
 - [EEUU - Women's Marches Crowd Sizes (post Trump's inauguration)](https://data.world/carlvlewis/womens-marches-crowd-sizes)
 - [EEUU - Snapchat Political Ads, 2018-2019](https://data.world/carlvlewis/snapchat-political-ads-2018-2019/workspace/project-summary?agentid=carlvlewis&datasetid=snapchat-political-ads-2018-2019) 
+
+#### datos.gob.mx
+- [Indicadores de crecimiento verde - Producción y consumo](https://datos.gob.mx/busca/dataset/indicadores-de-crecimiento-verde--produccion-y-consumo)
+- [Víctimas de incidencia delictiva del fuero común](https://datos.gob.mx/busca/dataset/victimas-de-incidencia-delictiva-del-fuero-comun)
+- [Asociaciones Religiosas Clasificado por Entidad Federativa](https://datos.gob.mx/busca/dataset/direccion-general-de-asociaciones-religiosas/resource/13ed1470-8483-4883-843b-875da69b15b1)
+- [Conafor: Incendios forestales en México](https://datos.gob.mx/busca/dataset/incendios-forestales)
+- [Tasa Global de Fecundidad y Tasa de Fecundidad Adolescente, 2009 y 2014](https://datos.gob.mx/busca/dataset/salud-sexual-y-reproductiva/resource/2413210a-0137-491e-b3d9-0f015dbce02e)
+
+#### datos.jalisco.gob.mx
+- [Puntos de conexión eJalisco](https://datos.jalisco.gob.mx/dataset/puntos-de-conexion-ejalisco)
+- [Delitos cometidos en el Estado de Jalisco en 2018](https://datos.jalisco.gob.mx/dataset/delitos-cometidos-en-el-estado-de-jalisco-en-2018)
+
+#### data.mx
+- [Salario Mínimo Histórico 1877-2019](http://datamx.io/dataset/salario-minimo-historico-1877-2019/resource/86a113d7-3f44-4817-8adc-cb0d226a9d5b)
+- [Población residente en Estados Unidos](http://datamx.io/dataset/poblacion-residente-en-estados-unidos)
 ___ 
 
 ## Instalación:
