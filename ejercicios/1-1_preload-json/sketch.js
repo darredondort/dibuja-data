@@ -9,7 +9,7 @@ function preload() {
 function setup() {
   num = data.fish.length;
   // createCanvas(600, 600);
-  createCanvas(windowyWidth, windowHeight);
+  createCanvas(windowWidth, windowHeight);
 
   // for (let i = 0; i<num; i++) {
   for (let i = 0; i<num; i++) {
