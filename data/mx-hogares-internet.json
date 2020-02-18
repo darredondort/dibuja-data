@@ -1,0 +1,1857 @@
+{"hogares_internet" : [
+ {
+   "entidad": "Estados Unidos Mexicanos",
+   "año": 2010,
+   "hogares_internet_porcentaje": 22.2,
+   "hogares_internet_totales": 6289743,
+   "hogares_totales": 28346120
+ },
+ {
+   "entidad": "Aguascalientes",
+   "año": 2010,
+   "hogares_internet_porcentaje": 25.2,
+   "hogares_internet_totales": 71148,
+   "hogares_totales": 282214
+ },
+ {
+   "entidad": "Baja California",
+   "año": 2010,
+   "hogares_internet_porcentaje": 37.2,
+   "hogares_internet_totales": 320908,
+   "hogares_totales": 861971
+ },
+ {
+   "entidad": "Baja California Sur",
+   "año": 2010,
+   "hogares_internet_porcentaje": 28.7,
+   "hogares_internet_totales": 50851,
+   "hogares_totales": 177138
+ },
+ {
+   "entidad": "Campeche",
+   "año": 2010,
+   "hogares_internet_porcentaje": 20.5,
+   "hogares_internet_totales": 44551,
+   "hogares_totales": 217033
+ },
+ {
+   "entidad": "Coahuila de Zaragoza",
+   "año": 2010,
+   "hogares_internet_porcentaje": 25.3,
+   "hogares_internet_totales": 180826,
+   "hogares_totales": 716043
+ },
+ {
+   "entidad": "Colima",
+   "año": 2010,
+   "hogares_internet_porcentaje": 26.4,
+   "hogares_internet_totales": 46432,
+   "hogares_totales": 175975
+ },
+ {
+   "entidad": "Chiapas",
+   "año": 2010,
+   "hogares_internet_porcentaje": 5.1,
+   "hogares_internet_totales": 52574,
+   "hogares_totales": 1026057
+ },
+ {
+   "entidad": "Chihuahua",
+   "año": 2010,
+   "hogares_internet_porcentaje": 26.4,
+   "hogares_internet_totales": 267209,
+   "hogares_totales": 1011398
+ },
+ {
+   "entidad": "Ciudad de México",
+   "año": 2010,
+   "hogares_internet_porcentaje": 36.1,
+   "hogares_internet_totales": 942495,
+   "hogares_totales": 2608431
+ },
+ {
+   "entidad": "Durango",
+   "año": 2010,
+   "hogares_internet_porcentaje": 18.5,
+   "hogares_internet_totales": 71796,
+   "hogares_totales": 387824
+ },
+ {
+   "entidad": "Guanajuato",
+   "año": 2010,
+   "hogares_internet_porcentaje": 15.7,
+   "hogares_internet_totales": 196106,
+   "hogares_totales": 1247084
+ },
+ {
+   "entidad": "Guerrero",
+   "año": 2010,
+   "hogares_internet_porcentaje": 10.9,
+   "hogares_internet_totales": 83246,
+   "hogares_totales": 766476
+ },
+ {
+   "entidad": "Hidalgo",
+   "año": 2010,
+   "hogares_internet_porcentaje": 13,
+   "hogares_internet_totales": 80414,
+   "hogares_totales": 616836
+ },
+ {
+   "entidad": "Jalisco",
+   "año": 2010,
+   "hogares_internet_porcentaje": 26.4,
+   "hogares_internet_totales": 487522,
+   "hogares_totales": 1843416
+ },
+ {
+   "entidad": "México",
+   "año": 2010,
+   "hogares_internet_porcentaje": 23.8,
+   "hogares_internet_totales": 903562,
+   "hogares_totales": 3789329
+ },
+ {
+   "entidad": "Michoacán de Ocampo",
+   "año": 2010,
+   "hogares_internet_porcentaje": 13.3,
+   "hogares_internet_totales": 136803,
+   "hogares_totales": 1030911
+ },
+ {
+   "entidad": "Morelos",
+   "año": 2010,
+   "hogares_internet_porcentaje": 26.7,
+   "hogares_internet_totales": 119734,
+   "hogares_totales": 448694
+ },
+ {
+   "entidad": "Nayarit",
+   "año": 2010,
+   "hogares_internet_porcentaje": 21.3,
+   "hogares_internet_totales": 55496,
+   "hogares_totales": 260876
+ },
+ {
+   "entidad": "Nuevo León",
+   "año": 2010,
+   "hogares_internet_porcentaje": 35.3,
+   "hogares_internet_totales": 439343,
+   "hogares_totales": 1243658
+ },
+ {
+   "entidad": "Oaxaca",
+   "año": 2010,
+   "hogares_internet_porcentaje": 8.4,
+   "hogares_internet_totales": 75217,
+   "hogares_totales": 898471
+ },
+ {
+   "entidad": "Puebla",
+   "año": 2010,
+   "hogares_internet_porcentaje": 13.7,
+   "hogares_internet_totales": 189174,
+   "hogares_totales": 1382215
+ },
+ {
+   "entidad": "Querétaro",
+   "año": 2010,
+   "hogares_internet_porcentaje": 22,
+   "hogares_internet_totales": 97070,
+   "hogares_totales": 442029
+ },
+ {
+   "entidad": "Quintana Roo",
+   "año": 2010,
+   "hogares_internet_porcentaje": 31.1,
+   "hogares_internet_totales": 121103,
+   "hogares_totales": 388999
+ },
+ {
+   "entidad": "San Luis Potosí",
+   "año": 2010,
+   "hogares_internet_porcentaje": 16.5,
+   "hogares_internet_totales": 103442,
+   "hogares_totales": 625101
+ },
+ {
+   "entidad": "Sinaloa",
+   "año": 2010,
+   "hogares_internet_porcentaje": 25.9,
+   "hogares_internet_totales": 180592,
+   "hogares_totales": 698124
+ },
+ {
+   "entidad": "Sonora",
+   "año": 2010,
+   "hogares_internet_porcentaje": 31.4,
+   "hogares_internet_totales": 214751,
+   "hogares_totales": 684499
+ },
+ {
+   "entidad": "Tabasco",
+   "año": 2010,
+   "hogares_internet_porcentaje": 13.9,
+   "hogares_internet_totales": 74107,
+   "hogares_totales": 531616
+ },
+ {
+   "entidad": "Tamaulipas",
+   "año": 2010,
+   "hogares_internet_porcentaje": 24.7,
+   "hogares_internet_totales": 214584,
+   "hogares_totales": 867837
+ },
+ {
+   "entidad": "Tlaxcala",
+   "año": 2010,
+   "hogares_internet_porcentaje": 9.8,
+   "hogares_internet_totales": 26532,
+   "hogares_totales": 270404
+ },
+ {
+   "entidad": "Veracruz de Ignacio de la Llave",
+   "año": 2010,
+   "hogares_internet_porcentaje": 14.7,
+   "hogares_internet_totales": 292161,
+   "hogares_totales": 1985701
+ },
+ {
+   "entidad": "Yucatán",
+   "año": 2010,
+   "hogares_internet_porcentaje": 20.5,
+   "hogares_internet_totales": 104034,
+   "hogares_totales": 506339
+ },
+ {
+   "entidad": "Zacatecas",
+   "año": 2010,
+   "hogares_internet_porcentaje": 13,
+   "hogares_internet_totales": 45960,
+   "hogares_totales": 353421
+ },
+ {
+   "entidad": "Estados Unidos Mexicanos",
+   "año": 2011,
+   "hogares_internet_porcentaje": 23.3,
+   "hogares_internet_totales": 6994654,
+   "hogares_totales": 30064255
+ },
+ {
+   "entidad": "Aguascalientes",
+   "año": 2011,
+   "hogares_internet_porcentaje": 28.8,
+   "hogares_internet_totales": 87286,
+   "hogares_totales": 303253
+ },
+ {
+   "entidad": "Baja California",
+   "año": 2011,
+   "hogares_internet_porcentaje": 38.1,
+   "hogares_internet_totales": 336752,
+   "hogares_totales": 884682
+ },
+ {
+   "entidad": "Baja California Sur",
+   "año": 2011,
+   "hogares_internet_porcentaje": 40.7,
+   "hogares_internet_totales": 77245,
+   "hogares_totales": 190023
+ },
+ {
+   "entidad": "Campeche",
+   "año": 2011,
+   "hogares_internet_porcentaje": 22.2,
+   "hogares_internet_totales": 48476,
+   "hogares_totales": 217871
+ },
+ {
+   "entidad": "Coahuila de Zaragoza",
+   "año": 2011,
+   "hogares_internet_porcentaje": 24.9,
+   "hogares_internet_totales": 187279,
+   "hogares_totales": 753042
+ },
+ {
+   "entidad": "Colima",
+   "año": 2011,
+   "hogares_internet_porcentaje": 28.9,
+   "hogares_internet_totales": 54662,
+   "hogares_totales": 189025
+ },
+ {
+   "entidad": "Chiapas",
+   "año": 2011,
+   "hogares_internet_porcentaje": 10.4,
+   "hogares_internet_totales": 118455,
+   "hogares_totales": 1135253
+ },
+ {
+   "entidad": "Chihuahua",
+   "año": 2011,
+   "hogares_internet_porcentaje": 26.5,
+   "hogares_internet_totales": 249940,
+   "hogares_totales": 943640
+ },
+ {
+   "entidad": "Ciudad de México",
+   "año": 2011,
+   "hogares_internet_porcentaje": 38.7,
+   "hogares_internet_totales": 978726,
+   "hogares_totales": 2526941
+ },
+ {
+   "entidad": "Durango",
+   "año": 2011,
+   "hogares_internet_porcentaje": 24.3,
+   "hogares_internet_totales": 103350,
+   "hogares_totales": 425728
+ },
+ {
+   "entidad": "Guanajuato",
+   "año": 2011,
+   "hogares_internet_porcentaje": 16.4,
+   "hogares_internet_totales": 222209,
+   "hogares_totales": 1359029
+ },
+ {
+   "entidad": "Guerrero",
+   "año": 2011,
+   "hogares_internet_porcentaje": 11.8,
+   "hogares_internet_totales": 102147,
+   "hogares_totales": 862087
+ },
+ {
+   "entidad": "Hidalgo",
+   "año": 2011,
+   "hogares_internet_porcentaje": 13.4,
+   "hogares_internet_totales": 92919,
+   "hogares_totales": 691354
+ },
+ {
+   "entidad": "Jalisco",
+   "año": 2011,
+   "hogares_internet_porcentaje": 28.9,
+   "hogares_internet_totales": 557090,
+   "hogares_totales": 1927656
+ },
+ {
+   "entidad": "México",
+   "año": 2011,
+   "hogares_internet_porcentaje": 21.7,
+   "hogares_internet_totales": 887800,
+   "hogares_totales": 4084915
+ },
+ {
+   "entidad": "Michoacán de Ocampo",
+   "año": 2011,
+   "hogares_internet_porcentaje": 14.4,
+   "hogares_internet_totales": 170125,
+   "hogares_totales": 1179038
+ },
+ {
+   "entidad": "Morelos",
+   "año": 2011,
+   "hogares_internet_porcentaje": 27.1,
+   "hogares_internet_totales": 130040,
+   "hogares_totales": 480395
+ },
+ {
+   "entidad": "Nayarit",
+   "año": 2011,
+   "hogares_internet_porcentaje": 21.9,
+   "hogares_internet_totales": 67446,
+   "hogares_totales": 308111
+ },
+ {
+   "entidad": "Nuevo León",
+   "año": 2011,
+   "hogares_internet_porcentaje": 34.7,
+   "hogares_internet_totales": 444217,
+   "hogares_totales": 1281128
+ },
+ {
+   "entidad": "Oaxaca",
+   "año": 2011,
+   "hogares_internet_porcentaje": 8,
+   "hogares_internet_totales": 77513,
+   "hogares_totales": 971804
+ },
+ {
+   "entidad": "Puebla",
+   "año": 2011,
+   "hogares_internet_porcentaje": 16.2,
+   "hogares_internet_totales": 229832,
+   "hogares_totales": 1415654
+ },
+ {
+   "entidad": "Querétaro",
+   "año": 2011,
+   "hogares_internet_porcentaje": 26.4,
+   "hogares_internet_totales": 124005,
+   "hogares_totales": 470212
+ },
+ {
+   "entidad": "Quintana Roo",
+   "año": 2011,
+   "hogares_internet_porcentaje": 36,
+   "hogares_internet_totales": 140399,
+   "hogares_totales": 390284
+ },
+ {
+   "entidad": "San Luis Potosí",
+   "año": 2011,
+   "hogares_internet_porcentaje": 20.4,
+   "hogares_internet_totales": 138642,
+   "hogares_totales": 678098
+ },
+ {
+   "entidad": "Sinaloa",
+   "año": 2011,
+   "hogares_internet_porcentaje": 25.6,
+   "hogares_internet_totales": 186546,
+   "hogares_totales": 728605
+ },
+ {
+   "entidad": "Sonora",
+   "año": 2011,
+   "hogares_internet_porcentaje": 33.3,
+   "hogares_internet_totales": 248048,
+   "hogares_totales": 744011
+ },
+ {
+   "entidad": "Tabasco",
+   "año": 2011,
+   "hogares_internet_porcentaje": 16.5,
+   "hogares_internet_totales": 98405,
+   "hogares_totales": 597975
+ },
+ {
+   "entidad": "Tamaulipas",
+   "año": 2011,
+   "hogares_internet_porcentaje": 32,
+   "hogares_internet_totales": 287597,
+   "hogares_totales": 900107
+ },
+ {
+   "entidad": "Tlaxcala",
+   "año": 2011,
+   "hogares_internet_porcentaje": 11.7,
+   "hogares_internet_totales": 33674,
+   "hogares_totales": 287201
+ },
+ {
+   "entidad": "Veracruz de Ignacio de la Llave",
+   "año": 2011,
+   "hogares_internet_porcentaje": 14.9,
+   "hogares_internet_totales": 328353,
+   "hogares_totales": 2211022
+ },
+ {
+   "entidad": "Yucatán",
+   "año": 2011,
+   "hogares_internet_porcentaje": 23.3,
+   "hogares_internet_totales": 124304,
+   "hogares_totales": 533695
+ },
+ {
+   "entidad": "Zacatecas",
+   "año": 2011,
+   "hogares_internet_porcentaje": 15.6,
+   "hogares_internet_totales": 61172,
+   "hogares_totales": 392416
+ },
+ {
+   "entidad": "Estados Unidos Mexicanos",
+   "año": 2012,
+   "hogares_internet_porcentaje": 26,
+   "hogares_internet_totales": 7933788,
+   "hogares_totales": 30551177
+ },
+ {
+   "entidad": "Estados Unidos Mexicanos",
+   "año": 2013,
+   "hogares_internet_porcentaje": 30.7,
+   "hogares_internet_totales": 9574027,
+   "hogares_totales": 31141671
+ },
+ {
+   "entidad": "Aguascalientes",
+   "año": 2013,
+   "hogares_internet_porcentaje": 35.8,
+   "hogares_internet_totales": 116195,
+   "hogares_totales": 324919
+ },
+ {
+   "entidad": "Baja California",
+   "año": 2013,
+   "hogares_internet_porcentaje": 46.6,
+   "hogares_internet_totales": 437931,
+   "hogares_totales": 940458
+ },
+ {
+   "entidad": "Baja California Sur",
+   "año": 2013,
+   "hogares_internet_porcentaje": 50.7,
+   "hogares_internet_totales": 104219,
+   "hogares_totales": 205664
+ },
+ {
+   "entidad": "Campeche",
+   "año": 2013,
+   "hogares_internet_porcentaje": 26.8,
+   "hogares_internet_totales": 63304,
+   "hogares_totales": 235831
+ },
+ {
+   "entidad": "Coahuila de Zaragoza",
+   "año": 2013,
+   "hogares_internet_porcentaje": 34.3,
+   "hogares_internet_totales": 279970,
+   "hogares_totales": 815187
+ },
+ {
+   "entidad": "Colima",
+   "año": 2013,
+   "hogares_internet_porcentaje": 40.2,
+   "hogares_internet_totales": 82736,
+   "hogares_totales": 206064
+ },
+ {
+   "entidad": "Chiapas",
+   "año": 2013,
+   "hogares_internet_porcentaje": 11.8,
+   "hogares_internet_totales": 140788,
+   "hogares_totales": 1190272
+ },
+ {
+   "entidad": "Chihuahua",
+   "año": 2013,
+   "hogares_internet_porcentaje": 32.1,
+   "hogares_internet_totales": 339473,
+   "hogares_totales": 1057697
+ },
+ {
+   "entidad": "Ciudad de México",
+   "año": 2013,
+   "hogares_internet_porcentaje": 50.2,
+   "hogares_internet_totales": 1284595,
+   "hogares_totales": 2559621
+ },
+ {
+   "entidad": "Durango",
+   "año": 2013,
+   "hogares_internet_porcentaje": 22.4,
+   "hogares_internet_totales": 101412,
+   "hogares_totales": 452143
+ },
+ {
+   "entidad": "Guanajuato",
+   "año": 2013,
+   "hogares_internet_porcentaje": 24.7,
+   "hogares_internet_totales": 338744,
+   "hogares_totales": 1369992
+ },
+ {
+   "entidad": "Guerrero",
+   "año": 2013,
+   "hogares_internet_porcentaje": 15.3,
+   "hogares_internet_totales": 139374,
+   "hogares_totales": 913832
+ },
+ {
+   "entidad": "Hidalgo",
+   "año": 2013,
+   "hogares_internet_porcentaje": 18.2,
+   "hogares_internet_totales": 132793,
+   "hogares_totales": 730705
+ },
+ {
+   "entidad": "Jalisco",
+   "año": 2013,
+   "hogares_internet_porcentaje": 36.4,
+   "hogares_internet_totales": 742635,
+   "hogares_totales": 2038312
+ },
+ {
+   "entidad": "México",
+   "año": 2013,
+   "hogares_internet_porcentaje": 29.3,
+   "hogares_internet_totales": 1172997,
+   "hogares_totales": 4008687
+ },
+ {
+   "entidad": "Michoacán de Ocampo",
+   "año": 2013,
+   "hogares_internet_porcentaje": 19.3,
+   "hogares_internet_totales": 225245,
+   "hogares_totales": 1169061
+ },
+ {
+   "entidad": "Morelos",
+   "año": 2013,
+   "hogares_internet_porcentaje": 32.2,
+   "hogares_internet_totales": 160350,
+   "hogares_totales": 497639
+ },
+ {
+   "entidad": "Nayarit",
+   "año": 2013,
+   "hogares_internet_porcentaje": 31.6,
+   "hogares_internet_totales": 106091,
+   "hogares_totales": 335657
+ },
+ {
+   "entidad": "Nuevo León",
+   "año": 2013,
+   "hogares_internet_porcentaje": 46.8,
+   "hogares_internet_totales": 644553,
+   "hogares_totales": 1378047
+ },
+ {
+   "entidad": "Oaxaca",
+   "año": 2013,
+   "hogares_internet_porcentaje": 12.6,
+   "hogares_internet_totales": 124393,
+   "hogares_totales": 990695
+ },
+ {
+   "entidad": "Puebla",
+   "año": 2013,
+   "hogares_internet_porcentaje": 22.7,
+   "hogares_internet_totales": 338725,
+   "hogares_totales": 1492695
+ },
+ {
+   "entidad": "Querétaro",
+   "año": 2013,
+   "hogares_internet_porcentaje": 34.2,
+   "hogares_internet_totales": 172341,
+   "hogares_totales": 504624
+ },
+ {
+   "entidad": "Quintana Roo",
+   "año": 2013,
+   "hogares_internet_porcentaje": 42.6,
+   "hogares_internet_totales": 174913,
+   "hogares_totales": 410420
+ },
+ {
+   "entidad": "San Luis Potosí",
+   "año": 2013,
+   "hogares_internet_porcentaje": 26.4,
+   "hogares_internet_totales": 180772,
+   "hogares_totales": 684130
+ },
+ {
+   "entidad": "Sinaloa",
+   "año": 2013,
+   "hogares_internet_porcentaje": 34.3,
+   "hogares_internet_totales": 273980,
+   "hogares_totales": 799706
+ },
+ {
+   "entidad": "Sonora",
+   "año": 2013,
+   "hogares_internet_porcentaje": 47,
+   "hogares_internet_totales": 365920,
+   "hogares_totales": 777778
+ },
+ {
+   "entidad": "Tabasco",
+   "año": 2013,
+   "hogares_internet_porcentaje": 23.7,
+   "hogares_internet_totales": 137934,
+   "hogares_totales": 580931
+ },
+ {
+   "entidad": "Tamaulipas",
+   "año": 2013,
+   "hogares_internet_porcentaje": 35.9,
+   "hogares_internet_totales": 356633,
+   "hogares_totales": 992962
+ },
+ {
+   "entidad": "Tlaxcala",
+   "año": 2013,
+   "hogares_internet_porcentaje": 17.4,
+   "hogares_internet_totales": 54853,
+   "hogares_totales": 315114
+ },
+ {
+   "entidad": "Veracruz de Ignacio de la Llave",
+   "año": 2013,
+   "hogares_internet_porcentaje": 24.9,
+   "hogares_internet_totales": 547372,
+   "hogares_totales": 2197196
+ },
+ {
+   "entidad": "Yucatán",
+   "año": 2013,
+   "hogares_internet_porcentaje": 25.3,
+   "hogares_internet_totales": 139019,
+   "hogares_totales": 548445
+ },
+ {
+   "entidad": "Zacatecas",
+   "año": 2013,
+   "hogares_internet_porcentaje": 22.5,
+   "hogares_internet_totales": 93767,
+   "hogares_totales": 417187
+ },
+ {
+   "entidad": "Estados Unidos Mexicanos",
+   "año": 2014,
+   "hogares_internet_porcentaje": 34.4,
+   "hogares_internet_totales": 10798467,
+   "hogares_totales": 31397520
+ },
+ {
+   "entidad": "Aguascalientes",
+   "año": 2014,
+   "hogares_internet_porcentaje": 39.4,
+   "hogares_internet_totales": 124246,
+   "hogares_totales": 314992
+ },
+ {
+   "entidad": "Baja California",
+   "año": 2014,
+   "hogares_internet_porcentaje": 51.7,
+   "hogares_internet_totales": 488882,
+   "hogares_totales": 945692
+ },
+ {
+   "entidad": "Baja California Sur",
+   "año": 2014,
+   "hogares_internet_porcentaje": 45.9,
+   "hogares_internet_totales": 98447,
+   "hogares_totales": 214494
+ },
+ {
+   "entidad": "Campeche",
+   "año": 2014,
+   "hogares_internet_porcentaje": 27.2,
+   "hogares_internet_totales": 63518,
+   "hogares_totales": 233140
+ },
+ {
+   "entidad": "Coahuila de Zaragoza",
+   "año": 2014,
+   "hogares_internet_porcentaje": 35.2,
+   "hogares_internet_totales": 284727,
+   "hogares_totales": 809500
+ },
+ {
+   "entidad": "Colima",
+   "año": 2014,
+   "hogares_internet_porcentaje": 45.3,
+   "hogares_internet_totales": 91838,
+   "hogares_totales": 202884
+ },
+ {
+   "entidad": "Chiapas",
+   "año": 2014,
+   "hogares_internet_porcentaje": 10,
+   "hogares_internet_totales": 124605,
+   "hogares_totales": 1241475
+ },
+ {
+   "entidad": "Chihuahua",
+   "año": 2014,
+   "hogares_internet_porcentaje": 42.9,
+   "hogares_internet_totales": 462309,
+   "hogares_totales": 1076655
+ },
+ {
+   "entidad": "Ciudad de México",
+   "año": 2014,
+   "hogares_internet_porcentaje": 55,
+   "hogares_internet_totales": 1352927,
+   "hogares_totales": 2461936
+ },
+ {
+   "entidad": "Durango",
+   "año": 2014,
+   "hogares_internet_porcentaje": 30.4,
+   "hogares_internet_totales": 142807,
+   "hogares_totales": 470258
+ },
+ {
+   "entidad": "Guanajuato",
+   "año": 2014,
+   "hogares_internet_porcentaje": 27.5,
+   "hogares_internet_totales": 383474,
+   "hogares_totales": 1391989
+ },
+ {
+   "entidad": "Guerrero",
+   "año": 2014,
+   "hogares_internet_porcentaje": 20.8,
+   "hogares_internet_totales": 188112,
+   "hogares_totales": 905079
+ },
+ {
+   "entidad": "Hidalgo",
+   "año": 2014,
+   "hogares_internet_porcentaje": 25.7,
+   "hogares_internet_totales": 200263,
+   "hogares_totales": 779109
+ },
+ {
+   "entidad": "Jalisco",
+   "año": 2014,
+   "hogares_internet_porcentaje": 42.4,
+   "hogares_internet_totales": 865507,
+   "hogares_totales": 2041565
+ },
+ {
+   "entidad": "México",
+   "año": 2014,
+   "hogares_internet_porcentaje": 35.2,
+   "hogares_internet_totales": 1444333,
+   "hogares_totales": 4100718
+ },
+ {
+   "entidad": "Michoacán de Ocampo",
+   "año": 2014,
+   "hogares_internet_porcentaje": 23.7,
+   "hogares_internet_totales": 276215,
+   "hogares_totales": 1165223
+ },
+ {
+   "entidad": "Morelos",
+   "año": 2014,
+   "hogares_internet_porcentaje": 38.4,
+   "hogares_internet_totales": 196950,
+   "hogares_totales": 512347
+ },
+ {
+   "entidad": "Nayarit",
+   "año": 2014,
+   "hogares_internet_porcentaje": 35.9,
+   "hogares_internet_totales": 122574,
+   "hogares_totales": 341878
+ },
+ {
+   "entidad": "Nuevo León",
+   "año": 2014,
+   "hogares_internet_porcentaje": 55.6,
+   "hogares_internet_totales": 758800,
+   "hogares_totales": 1363743
+ },
+ {
+   "entidad": "Oaxaca",
+   "año": 2014,
+   "hogares_internet_porcentaje": 14.6,
+   "hogares_internet_totales": 151806,
+   "hogares_totales": 1042455
+ },
+ {
+   "entidad": "Puebla",
+   "año": 2014,
+   "hogares_internet_porcentaje": 24.1,
+   "hogares_internet_totales": 369772,
+   "hogares_totales": 1531337
+ },
+ {
+   "entidad": "Querétaro",
+   "año": 2014,
+   "hogares_internet_porcentaje": 32.4,
+   "hogares_internet_totales": 167559,
+   "hogares_totales": 516974
+ },
+ {
+   "entidad": "Quintana Roo",
+   "año": 2014,
+   "hogares_internet_porcentaje": 47.3,
+   "hogares_internet_totales": 202835,
+   "hogares_totales": 428664
+ },
+ {
+   "entidad": "San Luis Potosí",
+   "año": 2014,
+   "hogares_internet_porcentaje": 27.3,
+   "hogares_internet_totales": 192660,
+   "hogares_totales": 705909
+ },
+ {
+   "entidad": "Sinaloa",
+   "año": 2014,
+   "hogares_internet_porcentaje": 38.3,
+   "hogares_internet_totales": 298781,
+   "hogares_totales": 781109
+ },
+ {
+   "entidad": "Sonora",
+   "año": 2014,
+   "hogares_internet_porcentaje": 46,
+   "hogares_internet_totales": 356710,
+   "hogares_totales": 774868
+ },
+ {
+   "entidad": "Tabasco",
+   "año": 2014,
+   "hogares_internet_porcentaje": 29.2,
+   "hogares_internet_totales": 178481,
+   "hogares_totales": 611139
+ },
+ {
+   "entidad": "Tamaulipas",
+   "año": 2014,
+   "hogares_internet_porcentaje": 38.5,
+   "hogares_internet_totales": 382183,
+   "hogares_totales": 992002
+ },
+ {
+   "entidad": "Tlaxcala",
+   "año": 2014,
+   "hogares_internet_porcentaje": 25.5,
+   "hogares_internet_totales": 79648,
+   "hogares_totales": 311753
+ },
+ {
+   "entidad": "Veracruz de Ignacio de la Llave",
+   "año": 2014,
+   "hogares_internet_porcentaje": 21.8,
+   "hogares_internet_totales": 470714,
+   "hogares_totales": 2156614
+ },
+ {
+   "entidad": "Yucatán",
+   "año": 2014,
+   "hogares_internet_porcentaje": 30.2,
+   "hogares_internet_totales": 169427,
+   "hogares_totales": 561156
+ },
+ {
+   "entidad": "Zacatecas",
+   "año": 2014,
+   "hogares_internet_porcentaje": 26.1,
+   "hogares_internet_totales": 107357,
+   "hogares_totales": 410863
+ },
+ {
+   "entidad": "Estados Unidos Mexicanos",
+   "año": 2015,
+   "hogares_internet_porcentaje": 39.2,
+   "hogares_internet_totales": 12810487,
+   "hogares_totales": 32698383
+ },
+ {
+   "entidad": "Aguascalientes",
+   "año": 2015,
+   "hogares_internet_porcentaje": 40.3,
+   "hogares_internet_totales": 134521,
+   "hogares_totales": 333650
+ },
+ {
+   "entidad": "Baja California",
+   "año": 2015,
+   "hogares_internet_porcentaje": 56.5,
+   "hogares_internet_totales": 573630,
+   "hogares_totales": 1014990
+ },
+ {
+   "entidad": "Baja California Sur",
+   "año": 2015,
+   "hogares_internet_porcentaje": 57.7,
+   "hogares_internet_totales": 134762,
+   "hogares_totales": 233543
+ },
+ {
+   "entidad": "Campeche",
+   "año": 2015,
+   "hogares_internet_porcentaje": 40.2,
+   "hogares_internet_totales": 98121,
+   "hogares_totales": 244170
+ },
+ {
+   "entidad": "Coahuila de Zaragoza",
+   "año": 2015,
+   "hogares_internet_porcentaje": 41,
+   "hogares_internet_totales": 327849,
+   "hogares_totales": 798934
+ },
+ {
+   "entidad": "Colima",
+   "año": 2015,
+   "hogares_internet_porcentaje": 47.8,
+   "hogares_internet_totales": 101382,
+   "hogares_totales": 212285
+ },
+ {
+   "entidad": "Chiapas",
+   "año": 2015,
+   "hogares_internet_porcentaje": 13.1,
+   "hogares_internet_totales": 171736,
+   "hogares_totales": 1310312
+ },
+ {
+   "entidad": "Chihuahua",
+   "año": 2015,
+   "hogares_internet_porcentaje": 41.8,
+   "hogares_internet_totales": 445387,
+   "hogares_totales": 1065975
+ },
+ {
+   "entidad": "Ciudad de Méxicoc",
+   "año": 2015,
+   "hogares_internet_porcentaje": 63.1,
+   "hogares_internet_totales": 1663499,
+   "hogares_totales": 2636650
+ },
+ {
+   "entidad": "Durango",
+   "año": 2015,
+   "hogares_internet_porcentaje": 28.2,
+   "hogares_internet_totales": 135950,
+   "hogares_totales": 481631
+ },
+ {
+   "entidad": "Guanajuato",
+   "año": 2015,
+   "hogares_internet_porcentaje": 36.3,
+   "hogares_internet_totales": 534685,
+   "hogares_totales": 1471450
+ },
+ {
+   "entidad": "Guerrero",
+   "año": 2015,
+   "hogares_internet_porcentaje": 21.7,
+   "hogares_internet_totales": 203552,
+   "hogares_totales": 937381
+ },
+ {
+   "entidad": "Hidalgo",
+   "año": 2015,
+   "hogares_internet_porcentaje": 31.8,
+   "hogares_internet_totales": 246602,
+   "hogares_totales": 774536
+ },
+ {
+   "entidad": "Jalisco",
+   "año": 2015,
+   "hogares_internet_porcentaje": 47.4,
+   "hogares_internet_totales": 983711,
+   "hogares_totales": 2076215
+ },
+ {
+   "entidad": "México",
+   "año": 2015,
+   "hogares_internet_porcentaje": 40.9,
+   "hogares_internet_totales": 1779871,
+   "hogares_totales": 4354757
+ },
+ {
+   "entidad": "Michoacán de Ocampo",
+   "año": 2015,
+   "hogares_internet_porcentaje": 25,
+   "hogares_internet_totales": 303190,
+   "hogares_totales": 1213543
+ },
+ {
+   "entidad": "Morelos",
+   "año": 2015,
+   "hogares_internet_porcentaje": 40.5,
+   "hogares_internet_totales": 217896,
+   "hogares_totales": 537370
+ },
+ {
+   "entidad": "Nayarit",
+   "año": 2015,
+   "hogares_internet_porcentaje": 34.5,
+   "hogares_internet_totales": 119109,
+   "hogares_totales": 345534
+ },
+ {
+   "entidad": "Nuevo León",
+   "año": 2015,
+   "hogares_internet_porcentaje": 59.1,
+   "hogares_internet_totales": 824141,
+   "hogares_totales": 1394832
+ },
+ {
+   "entidad": "Oaxaca",
+   "año": 2015,
+   "hogares_internet_porcentaje": 17.8,
+   "hogares_internet_totales": 187539,
+   "hogares_totales": 1051251
+ },
+ {
+   "entidad": "Puebla",
+   "año": 2015,
+   "hogares_internet_porcentaje": 26,
+   "hogares_internet_totales": 410428,
+   "hogares_totales": 1577831
+ },
+ {
+   "entidad": "Querétaro",
+   "año": 2015,
+   "hogares_internet_porcentaje": 43.4,
+   "hogares_internet_totales": 234029,
+   "hogares_totales": 539583
+ },
+ {
+   "entidad": "Quintana Roo",
+   "año": 2015,
+   "hogares_internet_porcentaje": 50,
+   "hogares_internet_totales": 225796,
+   "hogares_totales": 451759
+ },
+ {
+   "entidad": "San Luis Potosí",
+   "año": 2015,
+   "hogares_internet_porcentaje": 40,
+   "hogares_internet_totales": 298058,
+   "hogares_totales": 744245
+ },
+ {
+   "entidad": "Sinaloa",
+   "año": 2015,
+   "hogares_internet_porcentaje": 38.4,
+   "hogares_internet_totales": 312479,
+   "hogares_totales": 814483
+ },
+ {
+   "entidad": "Sonora",
+   "año": 2015,
+   "hogares_internet_porcentaje": 57.1,
+   "hogares_internet_totales": 476945,
+   "hogares_totales": 834733
+ },
+ {
+   "entidad": "Tabasco",
+   "año": 2015,
+   "hogares_internet_porcentaje": 21.5,
+   "hogares_internet_totales": 138304,
+   "hogares_totales": 642093
+ },
+ {
+   "entidad": "Tamaulipas",
+   "año": 2015,
+   "hogares_internet_porcentaje": 44.4,
+   "hogares_internet_totales": 447357,
+   "hogares_totales": 1008208
+ },
+ {
+   "entidad": "Tlaxcala",
+   "año": 2015,
+   "hogares_internet_porcentaje": 23.4,
+   "hogares_internet_totales": 75285,
+   "hogares_totales": 321595
+ },
+ {
+   "entidad": "Veracruz de Ignacio de la Llave",
+   "año": 2015,
+   "hogares_internet_porcentaje": 26.7,
+   "hogares_internet_totales": 612677,
+   "hogares_totales": 2291747
+ },
+ {
+   "entidad": "Yucatán",
+   "año": 2015,
+   "hogares_internet_porcentaje": 47.3,
+   "hogares_internet_totales": 266639,
+   "hogares_totales": 564284
+ },
+ {
+   "entidad": "Zacatecas",
+   "año": 2015,
+   "hogares_internet_porcentaje": 29.9,
+   "hogares_internet_totales": 125357,
+   "hogares_totales": 418813
+ },
+ {
+   "entidad": "Estados Unidos Mexicanos",
+   "año": 2016,
+   "hogares_internet_porcentaje": 47,
+   "hogares_internet_totales": 15658535,
+   "hogares_totales": 33303900
+ },
+ {
+   "entidad": "Aguascalientes",
+   "año": 2016,
+   "hogares_internet_porcentaje": 46.9,
+   "hogares_internet_totales": 160710,
+   "hogares_totales": 342918
+ },
+ {
+   "entidad": "Baja California",
+   "año": 2016,
+   "hogares_internet_porcentaje": 68,
+   "hogares_internet_totales": 698620,
+   "hogares_totales": 1027675
+ },
+ {
+   "entidad": "Baja California Sur",
+   "año": 2016,
+   "hogares_internet_porcentaje": 75.5,
+   "hogares_internet_totales": 179153,
+   "hogares_totales": 237182
+ },
+ {
+   "entidad": "Campeche",
+   "año": 2016,
+   "hogares_internet_porcentaje": 53.7,
+   "hogares_internet_totales": 133931,
+   "hogares_totales": 249321
+ },
+ {
+   "entidad": "Coahuila de Zaragoza",
+   "año": 2016,
+   "hogares_internet_porcentaje": 52.2,
+   "hogares_internet_totales": 426472,
+   "hogares_totales": 816614
+ },
+ {
+   "entidad": "Colima",
+   "año": 2016,
+   "hogares_internet_porcentaje": 54.3,
+   "hogares_internet_totales": 119732,
+   "hogares_totales": 220581
+ },
+ {
+   "entidad": "Chiapas",
+   "año": 2016,
+   "hogares_internet_porcentaje": 13.3,
+   "hogares_internet_totales": 173486,
+   "hogares_totales": 1301445
+ },
+ {
+   "entidad": "Chihuahua",
+   "año": 2016,
+   "hogares_internet_porcentaje": 46.9,
+   "hogares_internet_totales": 507202,
+   "hogares_totales": 1081528
+ },
+ {
+   "entidad": "Ciudad de México",
+   "año": 2016,
+   "hogares_internet_porcentaje": 67.6,
+   "hogares_internet_totales": 1825353,
+   "hogares_totales": 2701792
+ },
+ {
+   "entidad": "Durango",
+   "año": 2016,
+   "hogares_internet_porcentaje": 46.1,
+   "hogares_internet_totales": 217952,
+   "hogares_totales": 472278
+ },
+ {
+   "entidad": "Guanajuato",
+   "año": 2016,
+   "hogares_internet_porcentaje": 40.7,
+   "hogares_internet_totales": 606528,
+   "hogares_totales": 1491221
+ },
+ {
+   "entidad": "Guerrero",
+   "año": 2016,
+   "hogares_internet_porcentaje": 33.1,
+   "hogares_internet_totales": 309784,
+   "hogares_totales": 934700
+ },
+ {
+   "entidad": "Hidalgo",
+   "año": 2016,
+   "hogares_internet_porcentaje": 37.5,
+   "hogares_internet_totales": 296727,
+   "hogares_totales": 791053
+ },
+ {
+   "entidad": "Jalisco",
+   "año": 2016,
+   "hogares_internet_porcentaje": 59.5,
+   "hogares_internet_totales": 1264994,
+   "hogares_totales": 2127400
+ },
+ {
+   "entidad": "México",
+   "año": 2016,
+   "hogares_internet_porcentaje": 45.3,
+   "hogares_internet_totales": 2022326,
+   "hogares_totales": 4467112
+ },
+ {
+   "entidad": "Michoacán de Ocampo",
+   "año": 2016,
+   "hogares_internet_porcentaje": 33.6,
+   "hogares_internet_totales": 416525,
+   "hogares_totales": 1240261
+ },
+ {
+   "entidad": "Morelos",
+   "año": 2016,
+   "hogares_internet_porcentaje": 53.4,
+   "hogares_internet_totales": 288257,
+   "hogares_totales": 540170
+ },
+ {
+   "entidad": "Nayarit",
+   "año": 2016,
+   "hogares_internet_porcentaje": 46,
+   "hogares_internet_totales": 164513,
+   "hogares_totales": 357963
+ },
+ {
+   "entidad": "Nuevo León",
+   "año": 2016,
+   "hogares_internet_porcentaje": 67.4,
+   "hogares_internet_totales": 964092,
+   "hogares_totales": 1429839
+ },
+ {
+   "entidad": "Oaxaca",
+   "año": 2016,
+   "hogares_internet_porcentaje": 20.6,
+   "hogares_internet_totales": 224040,
+   "hogares_totales": 1085595
+ },
+ {
+   "entidad": "Puebla",
+   "año": 2016,
+   "hogares_internet_porcentaje": 29.2,
+   "hogares_internet_totales": 472334,
+   "hogares_totales": 1615919
+ },
+ {
+   "entidad": "Querétaro",
+   "año": 2016,
+   "hogares_internet_porcentaje": 54.2,
+   "hogares_internet_totales": 299254,
+   "hogares_totales": 552113
+ },
+ {
+   "entidad": "Quintana Roo",
+   "año": 2016,
+   "hogares_internet_porcentaje": 63.6,
+   "hogares_internet_totales": 294792,
+   "hogares_totales": 463284
+ },
+ {
+   "entidad": "San Luis Potosí",
+   "año": 2016,
+   "hogares_internet_porcentaje": 51.4,
+   "hogares_internet_totales": 378980,
+   "hogares_totales": 737385
+ },
+ {
+   "entidad": "Sinaloa",
+   "año": 2016,
+   "hogares_internet_porcentaje": 41.1,
+   "hogares_internet_totales": 344888,
+   "hogares_totales": 839662
+ },
+ {
+   "entidad": "Sonora",
+   "año": 2016,
+   "hogares_internet_porcentaje": 71.7,
+   "hogares_internet_totales": 608289,
+   "hogares_totales": 848803
+ },
+ {
+   "entidad": "Tabasco",
+   "año": 2016,
+   "hogares_internet_porcentaje": 62.5,
+   "hogares_internet_totales": 402339,
+   "hogares_totales": 644066
+ },
+ {
+   "entidad": "Tamaulipas",
+   "año": 2016,
+   "hogares_internet_porcentaje": 55.9,
+   "hogares_internet_totales": 574536,
+   "hogares_totales": 1027941
+ },
+ {
+   "entidad": "Tlaxcala",
+   "año": 2016,
+   "hogares_internet_porcentaje": 28.4,
+   "hogares_internet_totales": 90831,
+   "hogares_totales": 320190
+ },
+ {
+   "entidad": "Veracruz de Ignacio de la Llave",
+   "año": 2016,
+   "hogares_internet_porcentaje": 30.3,
+   "hogares_internet_totales": 702446,
+   "hogares_totales": 2316874
+ },
+ {
+   "entidad": "Yucatán",
+   "año": 2016,
+   "hogares_internet_porcentaje": 59,
+   "hogares_internet_totales": 342971,
+   "hogares_totales": 581389
+ },
+ {
+   "entidad": "Zacatecas",
+   "año": 2016,
+   "hogares_internet_porcentaje": 33.3,
+   "hogares_internet_totales": 146478,
+   "hogares_totales": 439626
+ },
+ {
+   "entidad": "Estados Unidos Mexicanos",
+   "año": 2017,
+   "hogares_internet_porcentaje": 50.9,
+   "hogares_internet_totales": 17397850,
+   "hogares_totales": 34165268
+ },
+ {
+   "entidad": "Aguascalientes",
+   "año": 2017,
+   "hogares_internet_porcentaje": 52.7,
+   "hogares_internet_totales": 191616,
+   "hogares_totales": 363878
+ },
+ {
+   "entidad": "Baja California",
+   "año": 2017,
+   "hogares_internet_porcentaje": 72.1,
+   "hogares_internet_totales": 787835,
+   "hogares_totales": 1092336
+ },
+ {
+   "entidad": "Baja California Sur",
+   "año": 2017,
+   "hogares_internet_porcentaje": 77.8,
+   "hogares_internet_totales": 193156,
+   "hogares_totales": 248324
+ },
+ {
+   "entidad": "Campeche",
+   "año": 2017,
+   "hogares_internet_porcentaje": 61.6,
+   "hogares_internet_totales": 159615,
+   "hogares_totales": 259265
+ },
+ {
+   "entidad": "Coahuila de Zaragoza",
+   "año": 2017,
+   "hogares_internet_porcentaje": 50.1,
+   "hogares_internet_totales": 415663,
+   "hogares_totales": 828847
+ },
+ {
+   "entidad": "Colima",
+   "año": 2017,
+   "hogares_internet_porcentaje": 63.3,
+   "hogares_internet_totales": 141008,
+   "hogares_totales": 222844
+ },
+ {
+   "entidad": "Chiapas",
+   "año": 2017,
+   "hogares_internet_porcentaje": 16.5,
+   "hogares_internet_totales": 220592,
+   "hogares_totales": 1336531
+ },
+ {
+   "entidad": "Chihuahua",
+   "año": 2017,
+   "hogares_internet_porcentaje": 52.3,
+   "hogares_internet_totales": 588997,
+   "hogares_totales": 1126406
+ },
+ {
+   "entidad": "Ciudad de México",
+   "año": 2017,
+   "hogares_internet_porcentaje": 74.6,
+   "hogares_internet_totales": 2059137,
+   "hogares_totales": 2761437
+ },
+ {
+   "entidad": "Durango",
+   "año": 2017,
+   "hogares_internet_porcentaje": 39.3,
+   "hogares_internet_totales": 192949,
+   "hogares_totales": 490838
+ },
+ {
+   "entidad": "Guanajuato",
+   "año": 2017,
+   "hogares_internet_porcentaje": 41.5,
+   "hogares_internet_totales": 632690,
+   "hogares_totales": 1523865
+ },
+ {
+   "entidad": "Guerrero",
+   "año": 2017,
+   "hogares_internet_porcentaje": 32.2,
+   "hogares_internet_totales": 307446,
+   "hogares_totales": 953913
+ },
+ {
+   "entidad": "Hidalgo",
+   "año": 2017,
+   "hogares_internet_porcentaje": 33.1,
+   "hogares_internet_totales": 260283,
+   "hogares_totales": 787298
+ },
+ {
+   "entidad": "Jalisco",
+   "año": 2017,
+   "hogares_internet_porcentaje": 55.3,
+   "hogares_internet_totales": 1215570,
+   "hogares_totales": 2196212
+ },
+ {
+   "entidad": "México",
+   "año": 2017,
+   "hogares_internet_porcentaje": 51.8,
+   "hogares_internet_totales": 2354977,
+   "hogares_totales": 4549803
+ },
+ {
+   "entidad": "Michoacán de Ocampo",
+   "año": 2017,
+   "hogares_internet_porcentaje": 41.8,
+   "hogares_internet_totales": 540572,
+   "hogares_totales": 1294496
+ },
+ {
+   "entidad": "Morelos",
+   "año": 2017,
+   "hogares_internet_porcentaje": 56.2,
+   "hogares_internet_totales": 306232,
+   "hogares_totales": 545005
+ },
+ {
+   "entidad": "Nayarit",
+   "año": 2017,
+   "hogares_internet_porcentaje": 43,
+   "hogares_internet_totales": 160000,
+   "hogares_totales": 371958
+ },
+ {
+   "entidad": "Nuevo León",
+   "año": 2017,
+   "hogares_internet_porcentaje": 66.4,
+   "hogares_internet_totales": 990648,
+   "hogares_totales": 1493002
+ },
+ {
+   "entidad": "Oaxaca",
+   "año": 2017,
+   "hogares_internet_porcentaje": 40.4,
+   "hogares_internet_totales": 442569,
+   "hogares_totales": 1096000
+ },
+ {
+   "entidad": "Puebla",
+   "año": 2017,
+   "hogares_internet_porcentaje": 32.7,
+   "hogares_internet_totales": 526392,
+   "hogares_totales": 1609545
+ },
+ {
+   "entidad": "Querétaro",
+   "año": 2017,
+   "hogares_internet_porcentaje": 52,
+   "hogares_internet_totales": 308136,
+   "hogares_totales": 592164
+ },
+ {
+   "entidad": "Quintana Roo",
+   "año": 2017,
+   "hogares_internet_porcentaje": 68.6,
+   "hogares_internet_totales": 343442,
+   "hogares_totales": 500761
+ },
+ {
+   "entidad": "San Luis Potosí",
+   "año": 2017,
+   "hogares_internet_porcentaje": 34.6,
+   "hogares_internet_totales": 263211,
+   "hogares_totales": 760499
+ },
+ {
+   "entidad": "Sinaloa",
+   "año": 2017,
+   "hogares_internet_porcentaje": 62.1,
+   "hogares_internet_totales": 522988,
+   "hogares_totales": 842148
+ },
+ {
+   "entidad": "Sonora",
+   "año": 2017,
+   "hogares_internet_porcentaje": 83.1,
+   "hogares_internet_totales": 734706,
+   "hogares_totales": 884406
+ },
+ {
+   "entidad": "Tabasco",
+   "año": 2017,
+   "hogares_internet_porcentaje": 55.7,
+   "hogares_internet_totales": 369059,
+   "hogares_totales": 662107
+ },
+ {
+   "entidad": "Tamaulipas",
+   "año": 2017,
+   "hogares_internet_porcentaje": 59.3,
+   "hogares_internet_totales": 623222,
+   "hogares_totales": 1051151
+ },
+ {
+   "entidad": "Tlaxcala",
+   "año": 2017,
+   "hogares_internet_porcentaje": 27.6,
+   "hogares_internet_totales": 91508,
+   "hogares_totales": 330984
+ },
+ {
+   "entidad": "Veracruz de Ignacio de la Llave",
+   "año": 2017,
+   "hogares_internet_porcentaje": 38.2,
+   "hogares_internet_totales": 906084,
+   "hogares_totales": 2372344
+ },
+ {
+   "entidad": "Yucatán",
+   "año": 2017,
+   "hogares_internet_porcentaje": 66.6,
+   "hogares_internet_totales": 391053,
+   "hogares_totales": 587408
+ },
+ {
+   "entidad": "Zacatecas",
+   "año": 2017,
+   "hogares_internet_porcentaje": 36.4,
+   "hogares_internet_totales": 156494,
+   "hogares_totales": 429493
+ },
+ {
+   "entidad": "Estados Unidos Mexicanos",
+   "año": 2018,
+   "hogares_internet_porcentaje": 52.9,
+   "hogares_internet_totales": 18343824,
+   "hogares_totales": 34699617
+ },
+ {
+   "entidad": "Aguascalientes",
+   "año": 2018,
+   "hogares_internet_porcentaje": 57.9,
+   "hogares_internet_totales": 204986,
+   "hogares_totales": 353852
+ },
+ {
+   "entidad": "Baja California",
+   "año": 2018,
+   "hogares_internet_porcentaje": 73.1,
+   "hogares_internet_totales": 808713,
+   "hogares_totales": 1105903
+ },
+ {
+   "entidad": "Baja California Sur",
+   "año": 2018,
+   "hogares_internet_porcentaje": 74.4,
+   "hogares_internet_totales": 189425,
+   "hogares_totales": 254720
+ },
+ {
+   "entidad": "Campeche",
+   "año": 2018,
+   "hogares_internet_porcentaje": 51.3,
+   "hogares_internet_totales": 131482,
+   "hogares_totales": 256284
+ },
+ {
+   "entidad": "Coahuila de Zaragoza",
+   "año": 2018,
+   "hogares_internet_porcentaje": 56.5,
+   "hogares_internet_totales": 476021,
+   "hogares_totales": 841947
+ },
+ {
+   "entidad": "Colima",
+   "año": 2018,
+   "hogares_internet_porcentaje": 60.8,
+   "hogares_internet_totales": 140472,
+   "hogares_totales": 230924
+ },
+ {
+   "entidad": "Chiapas",
+   "año": 2018,
+   "hogares_internet_porcentaje": 24.6,
+   "hogares_internet_totales": 334629,
+   "hogares_totales": 1360207
+ },
+ {
+   "entidad": "Chihuahua",
+   "año": 2018,
+   "hogares_internet_porcentaje": 52.9,
+   "hogares_internet_totales": 600983,
+   "hogares_totales": 1136896
+ },
+ {
+   "entidad": "Ciudad de México",
+   "año": 2018,
+   "hogares_internet_porcentaje": 72.3,
+   "hogares_internet_totales": 1953639,
+   "hogares_totales": 2700423
+ },
+ {
+   "entidad": "Durango",
+   "año": 2018,
+   "hogares_internet_porcentaje": 50.9,
+   "hogares_internet_totales": 253527,
+   "hogares_totales": 498039
+ },
+ {
+   "entidad": "Guanajuato",
+   "año": 2018,
+   "hogares_internet_porcentaje": 48.6,
+   "hogares_internet_totales": 739408,
+   "hogares_totales": 1522438
+ },
+ {
+   "entidad": "Guerrero",
+   "año": 2018,
+   "hogares_internet_porcentaje": 35,
+   "hogares_internet_totales": 347686,
+   "hogares_totales": 992229
+ },
+ {
+   "entidad": "Hidalgo",
+   "año": 2018,
+   "hogares_internet_porcentaje": 38.2,
+   "hogares_internet_totales": 321966,
+   "hogares_totales": 842472
+ },
+ {
+   "entidad": "Jalisco",
+   "año": 2018,
+   "hogares_internet_porcentaje": 60.9,
+   "hogares_internet_totales": 1402570,
+   "hogares_totales": 2303159
+ },
+ {
+   "entidad": "México",
+   "año": 2018,
+   "hogares_internet_porcentaje": 59,
+   "hogares_internet_totales": 2704652,
+   "hogares_totales": 4584669
+ },
+ {
+   "entidad": "Michoacán de Ocampo",
+   "año": 2018,
+   "hogares_internet_porcentaje": 44,
+   "hogares_internet_totales": 565050,
+   "hogares_totales": 1283098
+ },
+ {
+   "entidad": "Morelos",
+   "año": 2018,
+   "hogares_internet_porcentaje": 55.4,
+   "hogares_internet_totales": 308791,
+   "hogares_totales": 557568
+ },
+ {
+   "entidad": "Nayarit",
+   "año": 2018,
+   "hogares_internet_porcentaje": 42.2,
+   "hogares_internet_totales": 159702,
+   "hogares_totales": 378407
+ },
+ {
+   "entidad": "Nuevo León",
+   "año": 2018,
+   "hogares_internet_porcentaje": 72.7,
+   "hogares_internet_totales": 1080160,
+   "hogares_totales": 1486125
+ },
+ {
+   "entidad": "Oaxaca",
+   "año": 2018,
+   "hogares_internet_porcentaje": 29.5,
+   "hogares_internet_totales": 338277,
+   "hogares_totales": 1148216
+ },
+ {
+   "entidad": "Puebla",
+   "año": 2018,
+   "hogares_internet_porcentaje": 39.6,
+   "hogares_internet_totales": 655651,
+   "hogares_totales": 1653961
+ },
+ {
+   "entidad": "Querétaro",
+   "año": 2018,
+   "hogares_internet_porcentaje": 55.5,
+   "hogares_internet_totales": 318332,
+   "hogares_totales": 573574
+ },
+ {
+   "entidad": "Quintana Roo",
+   "año": 2018,
+   "hogares_internet_porcentaje": 74.2,
+   "hogares_internet_totales": 379062,
+   "hogares_totales": 511117
+ },
+ {
+   "entidad": "San Luis Potosí",
+   "año": 2018,
+   "hogares_internet_porcentaje": 36.9,
+   "hogares_internet_totales": 282721,
+   "hogares_totales": 766059
+ },
+ {
+   "entidad": "Sinaloa",
+   "año": 2018,
+   "hogares_internet_porcentaje": 62.7,
+   "hogares_internet_totales": 537053,
+   "hogares_totales": 856552
+ },
+ {
+   "entidad": "Sonora",
+   "año": 2018,
+   "hogares_internet_porcentaje": 81.4,
+   "hogares_internet_totales": 716984,
+   "hogares_totales": 880797
+ },
+ {
+   "entidad": "Tabasco",
+   "año": 2018,
+   "hogares_internet_porcentaje": 44.8,
+   "hogares_internet_totales": 301272,
+   "hogares_totales": 673068
+ },
+ {
+   "entidad": "Tamaulipas",
+   "año": 2018,
+   "hogares_internet_porcentaje": 56.3,
+   "hogares_internet_totales": 613999,
+   "hogares_totales": 1090490
+ },
+ {
+   "entidad": "Tlaxcala",
+   "año": 2018,
+   "hogares_internet_porcentaje": 34.2,
+   "hogares_internet_totales": 113825,
+   "hogares_totales": 332886
+ },
+ {
+   "entidad": "Veracruz de Ignacio de la Llave",
+   "año": 2018,
+   "hogares_internet_porcentaje": 35.4,
+   "hogares_internet_totales": 877589,
+   "hogares_totales": 2481145
+ },
+ {
+   "entidad": "Yucatán",
+   "año": 2018,
+   "hogares_internet_porcentaje": 50.4,
+   "hogares_internet_totales": 302363,
+   "hogares_totales": 599396
+ },
+ {
+   "entidad": "Zacatecas",
+   "año": 2018,
+   "hogares_internet_porcentaje": 41.3,
+   "hogares_internet_totales": 182834,
+   "hogares_totales": 442996
+ }
+]}

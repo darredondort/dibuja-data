@@ -1,0 +1,24 @@
+{
+  "arrests": [
+ {
+   "year": 2013,
+   "total_arrests": 232.287
+ },
+ {
+   "year": 2014,
+   "total_arrests": 183.703
+ },
+ {
+   "year": 2015,
+   "total_arrests": 119.772
+ },
+ {
+   "year": 2016,
+   "total_arrests": 110.104
+ },
+ {
+   "year": 2017,
+   "total_arrests": 143.47
+ }
+]
+}
