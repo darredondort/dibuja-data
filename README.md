@@ -14,14 +14,23 @@ Aprende a encapsular las propiedades y funcionalidades de las piezas en tu códi
 
 - **0-0_objetos**  [ [ código ](ejercicios/0-0_objetos) ]
 
+<img src="https://media.giphy.com/media/UVTCRKcC7bGC2zT1fo/giphy.gif" height="300">
+
+
 ### 1. Visualiza datos en archivos locales: JSON
 Incorpora datos desde archivos JSON en tu código utilizando la función loadJSON() de p5.js. Explora, modifica y crea “clases” para dibujar distintas formas con sus propias propiedades y métodos que pueden asociarse a los datos importados.
 
 - **1-1_preload-json**  [ [ código ](ejercicios/1-1_preload-json) ]
 - **1-2_loadjson-callback**  [ [ código ](ejercicios/1-2_loadjson-callback)] 
 - **1-3-ej-barra-peces**  [ [ código ](ejercicios/1-3_ej-barras-peces) ]
+
+<img src="https://media.giphy.com/media/UShZIxh9Xe4VmqPfKF/giphy.gif" height="300">
+
 - **1-4-ej-barchart-peces**  [ [ código ](ejercicios/1-4_ej-barchart-peces) ]
 - **1-5-ej-barchart-residuos** [ [ código ](ejercicios/1-5_ej-barchart-residuos) ]
+
+<img src="https://media.giphy.com/media/VDeYQ7c2HpJ3pwJ9hV/giphy.gif" height="300">
+
 
 ### 2. Visualiza datos en archivos locales: CSV/TSV
 
