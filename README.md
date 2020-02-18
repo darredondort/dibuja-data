@@ -12,17 +12,16 @@ ___
 ### 0. Programación Orientada a Objetos en JavaScript
 Aprende a encapsular las propiedades y funcionalidades de las piezas en tu código dentro de objetos, utilizando las posibilidades de programación orientada a objetos desde JavaScript ES6. Define “plantillas” de objetos utilizando la palabra clave *class*, introducida en ES6 ([¡no existen realmente las clases en JavaScript!](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/objects-classes/ch4.md)), y delega de ellas nuevos objetos que harán referencia al prototipo creado desde su función constructora.
 
-- **dibuja-data_0-0_objetos** [ código ]
+- **0-0_objetos**  [ [ código ](ejercicios/0-0_objetos) ]
 
 ### 1. Visualiza datos en archivos locales: JSON
 Incorpora datos desde archivos JSON en tu código utilizando la función loadJSON() de p5.js. Explora, modifica y crea “clases” para dibujar distintas formas con sus propias propiedades y métodos que pueden asociarse a los datos importados.
 
-- **dibuja-data_1-1_preload-json** [ código ]
-- **dibuja-data_1-2_loadjson-callback** [ código ]
-- **dibuja-data_1-3-ej-bola-peces** [ código ]
-- **dibuja-data_1-4-ej-barra-peces** [ código ]
-- **dibuja-data_1-5-ej-barchart-peces** [ código ]
-- **dibuja-data_1-6-ej-barchart-residuos** [ código ]
+- **1-1_preload-json**  [ [ código ](ejercicios/1-1_preload-json) ]
+- **1-2_loadjson-callback**  [ [ código ](ejercicios/1-2_loadjson-callback)] 
+- **1-3-ej-barra-peces**  [ [ código ](ejercicios/1-3_ej-barras-peces) ]
+- **1-4-ej-barchart-peces**  [ [ código ](ejercicios/1-4_ej-barchart-peces) ]
+- **1-5-ej-barchart-residuos** [ [ código ](ejercicios/1-5_ej-barchart-residuos) ]
 
 ### 2. Visualiza datos en archivos locales: CSV/TSV
 
