@@ -45,6 +45,8 @@ ____
 - [EEUU - U.S. Metro Areas Violent Crime Rates by Type, 1975-2015](https://data.world/carlvlewis/u-s-metro-areas-violent-crime-rates-by-type-1970-2015)
 - [EEUU - Women's Marches Crowd Sizes (post Trump's inauguration)](https://data.world/carlvlewis/womens-marches-crowd-sizes)
 - [EEUU - Snapchat Political Ads, 2018-2019](https://data.world/carlvlewis/snapchat-political-ads-2018-2019/workspace/project-summary?agentid=carlvlewis&datasetid=snapchat-political-ads-2018-2019) 
+- [EEUU - Arrests for cannabis possession](https://data.world/opensavannah/cannabis-justice)
+- [EEUU - Top 400 Corporate Subsidies by Gov. Agencies, 1990-'18](https://data.world/opensavannah/top-400-corporate-subsidies-by-gov-agencies-1990-18)
 
 #### datos.gob.mx
 - [Indicadores de crecimiento verde - Producción y consumo](https://datos.gob.mx/busca/dataset/indicadores-de-crecimiento-verde--produccion-y-consumo)
