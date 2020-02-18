@@ -30,8 +30,8 @@ Incorpora datos desde archivos JSON en tu código utilizando la función loadJSO
 
 ____
 
-## Datos:
-### En el repositorio:
+## Fuentes de datos:
+### En el [repositorio](data/):
 - [data.world: Marine Animal Speed](https://data.world/jamesgray/marine-animal-speed)
 - [data.world: U.S. Immigrant Arrests, 2013-2017](https://data.world/carlvlewis/us-immigrant-arrests-2013-2017)
 - [datos.gob.mx: Generación total y per cápita de residuos sólidos urbanos](https://datos.gob.mx/busca/dataset/indicadores-de-crecimiento-verde--produccion-y-consumo)
