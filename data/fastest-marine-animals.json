@@ -1,0 +1,7 @@
+{ "fish":
+  [{"label":"Black Marlin","speed":129,"avgKg":94},
+    {"label":"Sailfish","speed":109.19,"avgKg":55},
+    {"label":"Swordfish","speed":97,"avgKg":650},
+    {"label":"Shortfin Mako Shark","speed":72,"avgKg":140}
+  ]
+}

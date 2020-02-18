@@ -1,0 +1,109 @@
+{ "residuos":
+  [
+   {
+     "año": 1992,
+     "toneladas_totales": 21967.51,
+     "kg_persona_diario": 0.69
+   },
+   {
+     "año": 1993,
+     "toneladas_totales": 28089.54,
+     "kg_persona_diario": 0.88
+   },
+   {
+     "año": 1994,
+     "toneladas_totales": 29472.43,
+     "kg_persona_diario": 0.89
+   },
+   {
+     "año": 1995,
+     "toneladas_totales": 30509.61,
+     "kg_persona_diario": 0.92
+   },
+   {
+     "año": 1996,
+     "toneladas_totales": 31959.42,
+     "kg_persona_diario": 0.94
+   },
+   {
+     "año": 1997,
+     "toneladas_totales": 29272.42,
+     "kg_persona_diario": 0.84
+   },
+   {
+     "año": 1998,
+     "toneladas_totales": 30550.67,
+     "kg_persona_diario": 0.85
+   },
+   {
+     "año": 1999,
+     "toneladas_totales": 30952.28,
+     "kg_persona_diario": 0.84
+   },
+   {
+     "año": 2000,
+     "toneladas_totales": 30733.26,
+     "kg_persona_diario": 0.86
+   },
+   {
+     "año": 2001,
+     "toneladas_totales": 31488.48,
+     "kg_persona_diario": 0.87
+   },
+   {
+     "año": 2002,
+     "toneladas_totales": 32173.61,
+     "kg_persona_diario": 0.88
+   },
+   {
+     "año": 2003,
+     "toneladas_totales": 32915.7,
+     "kg_persona_diario": 0.89
+   },
+   {
+     "año": 2004,
+     "toneladas_totales": 34604,
+     "kg_persona_diario": 0.9
+   },
+   {
+     "año": 2005,
+     "toneladas_totales": 35405,
+     "kg_persona_diario": 0.91
+   },
+   {
+     "año": 2006,
+     "toneladas_totales": 36135,
+     "kg_persona_diario": 0.92
+   },
+   {
+     "año": 2007,
+     "toneladas_totales": 36865,
+     "kg_persona_diario": 0.96
+   },
+   {
+     "año": 2008,
+     "toneladas_totales": 37595,
+     "kg_persona_diario": 0.97
+   },
+   {
+     "año": 2009,
+     "toneladas_totales": 38325,
+     "kg_persona_diario": 0.98
+   },
+   {
+     "año": 2010,
+     "toneladas_totales": 40058.75,
+     "kg_persona_diario": 0.98
+   },
+   {
+     "año": 2011,
+     "toneladas_totales": 41062.5,
+     "kg_persona_diario": 0.99
+   },
+   {
+     "año": 2012,
+     "toneladas_totales": 42102.75,
+     "kg_persona_diario": 0.99
+   }
+  ]
+}
