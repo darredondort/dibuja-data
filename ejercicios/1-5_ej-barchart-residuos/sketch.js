@@ -29,7 +29,7 @@ let colors = [[86,122,209],
 
 
 function setup() {
-  loadJSON('../data/mx_residuos-solidos.json', gotData);
+  loadJSON('../../data/mx_residuos-solidos.json', gotData);
   // createCanvas(600, 600);
   createCanvas(windowWidth, windowHeight);
 

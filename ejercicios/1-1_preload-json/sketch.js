@@ -3,7 +3,7 @@ let data;
 let num;
 
 function preload() {
-  data = loadJSON('../data/fastest-marine-animals.json');
+  data = loadJSON('../../data/fastest-marine-animals.json');
 }
 
 function setup() {

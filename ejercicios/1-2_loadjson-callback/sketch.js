@@ -9,8 +9,8 @@ let colors = [[96,168,98],
               [203,90,76]];
 
 function setup() {
-  loadJSON('../data/fastest-marine-animals.json', gotData);
-  // createCanvas(600, 600);
+  loadJSON('../../data/fastest-marine-animals.json', gotData);
+  // createCanv.as(600, 600);
   createCanvas(windowWidth, windowHeight);
 }
 
