@@ -30,11 +30,11 @@ class Bola {
     this.y+=random(-this.speedY, this.speedY);
   };
   bounce(minW, maxW, minH, maxH) {
-    if (this.x >= maxW || this.x<=minW) {
+    if (this.x >= maxW || this.x <= minW) {
       this.speed = this.speed* -1;
     }
 
-    if (this.y > maxH || this.y<=minH) {
+    if (this.y >= maxH || this.y <= minH) {
       this.speed*=-1;
     }
 
