@@ -91,7 +91,7 @@ function draw() {
   for (let i = 0; i<num; i++) {
     boliza[i].show();
     boliza[i].bounce(width/2-issW/2, width/2+issW/2, height/2-issH/2, height/2+issH/2);
-    boliza[i].moveRandom(random(1),random(0.5));
+    boliza[i].moveRandom(random(0.5),random(0.5));
     // boliza[i].showLabel("bola", 24);
     boliza[i].showLabel(data[i].name, 16, 0, 0);
   }
