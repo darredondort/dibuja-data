@@ -19,25 +19,25 @@ class Bola {
   show() {
     noStroke();
     fill(this.col)
-    ellipse(this.x, this.y, this.size, this.size);
+    ellipse(this.x, this.y, this.size*2, this.size*2);
   };
   moveRandom(randX, randY) {
     this.x = this.x + randX*this.speed;
     this.y = this.y + randY*this.speed;
   };
-  move(){
+  move(speedX, speedY){
+    this.speedX = speedX;
+    this.speedY = speedY;
     this.x+=this.speedX;
-    this.y+=random(-this.speedY, this.speedY);
+    this.y+=this.speedY;
   };
   bounce(minW, maxW, minH, maxH) {
     if (this.x >= maxW || this.x <= minW) {
       this.speed = this.speed* -1;
     }
-
     if (this.y >= maxH || this.y <= minH) {
       this.speed*=-1;
     }
-
   };
   setColor(r,g,b,a) {
     this.col = color(r, g, b, a);
@@ -64,7 +64,7 @@ class Bola {
       this.high = true;
       this.col = highCol;
       this.labelCol = normCol;
-      console.log("clicked");
+      // console.log("over");
     } else {
       this.high = false;
       this.col = normCol;
