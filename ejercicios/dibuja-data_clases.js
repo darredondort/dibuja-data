@@ -69,7 +69,6 @@ class Bola {
       this.high = false;
       this.col = normCol;
       this.labelCol = highCol;
-
     }
   };
   showTooltip(x, y, tw, th, tcol, name, info) {
@@ -221,3 +220,62 @@ class Barra {
     }
   }
 };
+
+
+
+/***************** LÍNEA *******************/
+class Linea {
+  constructor(values, rows, num, minVal, maxVal, leftLimit, rightLimit, topLimit, bottomLimit) {
+    this.values = values;
+    this.rows = rows;
+    this.num = num;
+    this.minVal = minVal;
+    this.maxVal = maxVal;
+    this.strokeCol = 255;
+    this.fillCol = 100;
+    this.leftLimit = leftLimit;
+    this.rightLimit = rightLimit;
+    this.topLimit = topLimit;
+    this.bottomLimit = bottomLimit;
+
+  }
+  show() {
+    stroke(this.strokeCol);
+    // noFill();
+    fill(this.fillCol);
+    beginShape();
+      for (let i = 0; i < this.num; i++) {
+        // let row = this.rows[i];
+        // console.log(row.getString('Salario mínimo real'));
+        let val = parseInt(this.values[i]);
+        let x = map(i, 0, this.num - 1, this.leftLimit, this.rightLimit);
+        let y = map(val, this.minVal, this.maxVal, this.bottomLimit, this.topLimit);
+        vertex(x, y);
+      }
+    endShape();
+  }
+  setColor(stroke, fill){
+    this.strokeCol = stroke;
+    this.fillCol = fill;
+  }
+  showLabel(labels, labelMin, labelMax) {
+    // let x = 0;
+    let sep = 10;
+    for (let i = 0; i < this.num; i++) {
+      // let row = this.rows[i];
+      this.labels = labels;
+      let label = this.labels[i];
+      let val = parseInt(this.values[i]);
+      let x = map(i, 0, this.num - 1, this.leftLimit, this.rightLimit);
+      let y = map(val, this.minVal, this.maxVal, this.bottomLimit, this.topLimit);
+      // console.log(x);
+      textSize(map(val, this.minVal, this.maxVal, labelMin, labelMax));
+      textAlign(CENTER, CENTER);
+      noStroke();
+      fill(map(val, this.minVal, this.maxVal, 100, 255));
+      // stroke(255);
+      text(label, x, y);
+      // x+=sep;
+    }
+  };
+}
