@@ -3,7 +3,8 @@
 class Bola {
   constructor(x, y, size, speed) {
     this.category = "bola";
-    this.col = 0;
+    this.col = 200;
+    this.strokeCol = 200;
     this.labelCol = 0;
     this.labelFont = "Monospace";
     this.light = 200;
@@ -13,13 +14,17 @@ class Bola {
     this.x = x;
     this.y = y;
     this.size = size;
+    this.strokeWeight = 1;
     this.sym = Symbol();
+    this.high = false;
   };
 
   show() {
     noStroke();
-    fill(this.col)
-    ellipse(this.x, this.y, this.size*2, this.size*2);
+    fill(this.col);
+    stroke(this.strokeCol);
+    strokeWeight(this.strokeWeight);
+    ellipse(this.x, this.y, this.size, this.size);
   };
   moveRandom(randX, randY) {
     this.x = this.x + randX*this.speed;
@@ -42,12 +47,17 @@ class Bola {
   setColor(r,g,b,a) {
     this.col = color(r, g, b, a);
   };
+  setStroke(r, g, b, a, weight) {
+    this.strokeCol = color(r, g, b, a);
+    this.strokeWeight = weight;
+  };
   randomColor(r,g,b,a) {
     this.col = color(random(this.light, r), random(this.light, g), random(this.light,b), a);
   };
   showLabel(label, labelSize, offLabelX, offLabelY) {
     textSize(labelSize);
     textAlign(CENTER, CENTER);
+    noStroke();
     fill(this.labelCol)
     text(label, this.x+offLabelX, this.y+offLabelY);
   };
@@ -60,11 +70,25 @@ class Bola {
   highlight(px, py, highCol, normCol) {
     const pCol = this.col;
     let r = dist(px, py, this.x, this.y);
-    if (r < this.size) {
+    if (r < this.size*this.size) {
       this.high = true;
       this.col = highCol;
       this.labelCol = normCol;
       // console.log("over");
+    } else {
+      this.high = false;
+      this.col = normCol;
+      this.labelCol = highCol;
+    }
+  };
+  highlightMap(px, py, x, y, highCol, normCol) {
+    const pCol = this.col;
+    let r = dist(px, py, x, y);
+    if (r < this.size) {
+      this.high = true;
+      this.col = highCol;
+      this.labelCol = normCol;
+      console.log("over");
     } else {
       this.high = false;
       this.col = normCol;
@@ -81,6 +105,37 @@ class Bola {
       textAlign(CENTER, CENTER);
       textSize(16);
       text(name + "\n" + info, x+tw/2, y+th/2);
+    }
+  }
+  // showTooltipDiv(x, y, tw, th, tcol, name, info) {
+  showTooltipDiv() {
+    if (this.high) {
+      let labelDiv = createDiv("holi").class("tooltip");
+
+      //
+      // fill(220,100);
+      // rectMode(CORNER);
+      // rect(x, y, tw, th, 20);
+      // fill(tcol);
+      // textFont(this.labelFont);
+      // textAlign(CENTER, CENTER);
+      // textSize(16);
+      // text(name + "\n" + info, x+tw/2, y+th/2);
+    }
+  }
+  showTooltipLayer(x, y, tw, th, tcol, name, info, layer) {
+    if (this.high) {
+      push();
+        translate(-tw/2, -th/2);
+        fill(220,100);
+        rectMode(CORNER);
+        layer.rect(x, y, tw, th, 20);
+        fill(tcol);
+        textFont(this.labelFont);
+        textAlign(CENTER, CENTER);
+        textSize(16);
+        layer.text(name + "\n" + info, x+tw/2, y+th/2);
+      pop();
     }
   }
 }
@@ -220,62 +275,3 @@ class Barra {
     }
   }
 };
-
-
-
-/***************** LÍNEA *******************/
-class Linea {
-  constructor(values, rows, num, minVal, maxVal, leftLimit, rightLimit, topLimit, bottomLimit) {
-    this.values = values;
-    this.rows = rows;
-    this.num = num;
-    this.minVal = minVal;
-    this.maxVal = maxVal;
-    this.strokeCol = 255;
-    this.fillCol = 100;
-    this.leftLimit = leftLimit;
-    this.rightLimit = rightLimit;
-    this.topLimit = topLimit;
-    this.bottomLimit = bottomLimit;
-
-  }
-  show() {
-    stroke(this.strokeCol);
-    // noFill();
-    fill(this.fillCol);
-    beginShape();
-      for (let i = 0; i < this.num; i++) {
-        // let row = this.rows[i];
-        // console.log(row.getString('Salario mínimo real'));
-        let val = parseInt(this.values[i]);
-        let x = map(i, 0, this.num - 1, this.leftLimit, this.rightLimit);
-        let y = map(val, this.minVal, this.maxVal, this.bottomLimit, this.topLimit);
-        vertex(x, y);
-      }
-    endShape();
-  }
-  setColor(stroke, fill){
-    this.strokeCol = stroke;
-    this.fillCol = fill;
-  }
-  showLabel(labels, labelMin, labelMax) {
-    // let x = 0;
-    let sep = 10;
-    for (let i = 0; i < this.num; i++) {
-      // let row = this.rows[i];
-      this.labels = labels;
-      let label = this.labels[i];
-      let val = parseInt(this.values[i]);
-      let x = map(i, 0, this.num - 1, this.leftLimit, this.rightLimit);
-      let y = map(val, this.minVal, this.maxVal, this.bottomLimit, this.topLimit);
-      // console.log(x);
-      textSize(map(val, this.minVal, this.maxVal, labelMin, labelMax));
-      textAlign(CENTER, CENTER);
-      noStroke();
-      fill(map(val, this.minVal, this.maxVal, 100, 255));
-      // stroke(255);
-      text(label, x, y);
-      // x+=sep;
-    }
-  };
-}
