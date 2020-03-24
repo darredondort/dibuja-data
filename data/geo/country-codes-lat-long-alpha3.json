@@ -441,8 +441,8 @@
       "longitude" : 33
     },
 {
-      "country" : "Czech Republic",
-      "alpha2" : "CZ",
+      "country" : "Czechia",
+      "alpha2" : "Czech Republic",
       "alpha3" : "CZE",
       "numeric" : 203,
       "latitude" : 49.75,
@@ -801,7 +801,7 @@
       "longitude" : 120
     },
 {
-      "country" : "Iran, Islamic Republic of",
+      "country" : "Iran",
       "alpha2" : "IR",
       "alpha3" : "IRN",
       "numeric" : 364,
@@ -1129,7 +1129,7 @@
       "longitude" : 158.25
     },
 {
-      "country" : "Moldova, Republic of",
+      "country" : "Moldova",
       "alpha2" : "MD",
       "alpha3" : "MDA",
       "numeric" : 498,
@@ -1433,7 +1433,7 @@
       "longitude" : 25
     },
 {
-      "country" : "Russian Federation",
+      "country" : "Russia",
       "alpha2" : "RU",
       "alpha3" : "RUS",
       "numeric" : 643,
@@ -1697,7 +1697,7 @@
       "longitude" : 71
     },
 {
-      "country" : "Tanzania, United Republic of",
+      "country" : "Tanzania",
       "alpha2" : "TZ",
       "alpha3" : "TZA",
       "numeric" : 834,
@@ -1817,8 +1817,8 @@
       "longitude" : 54
     },
 {
-      "country" : "United Kingdom",
-      "alpha2" : "GB",
+      "country" : "UK",
+      "alpha2" : "UK",
       "alpha3" : "GBR",
       "numeric" : 826,
       "latitude" : 54,
@@ -1865,7 +1865,7 @@
       "longitude" : 167
     },
 {
-      "country" : "Venezuela, Bolivarian Republic of",
+      "country" : "Venezuela",
       "alpha2" : "VE",
       "alpha3" : "VEN",
       "numeric" : 862,

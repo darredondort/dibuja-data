@@ -1,15 +1,18 @@
-const key = '';
 const options = {
   lat: 30,
   lng: -98,
   zoom: 4,
-  // style: 'mapbox://styles/mapbox/traffic-night-v2',
-  style: 'mapbox://styles/mapbox/dark-v9',
-  pitch: 0,
-  // maxBounds: [[-150, 20], [ -50, 40]]
+  style: 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',
+  // más estilos de Leaflet: https://leaflet-extras.github.io/leaflet-providers/preview/
+  // style: 'https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png',
+  // style: 'https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png',
+  // style: 'http://{s}.tile.osm.org/{z}/{x}/{y}.png',
+  // style: 'https://tiles.stadiamaps.com/tiles/outdoors/{z}/{x}/{y}{r}.png',
+  // style: 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer/tile/{z}/{y}/{x}'
+
 };
 
-const mappa = new Mappa('MapboxGL', key);
+const mappa = new Mappa('Leaflet');
 let myMap;
 let canvas;
 

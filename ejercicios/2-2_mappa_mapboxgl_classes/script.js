@@ -1,4 +1,3 @@
-
 const key = '';
 const options = {
   lat: 30,

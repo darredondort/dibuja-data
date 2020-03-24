@@ -5,6 +5,7 @@ const options = {
   zoom: 12,
   // style: 'mapbox://styles/mapbox/traffic-night-v2',
   style: 'mapbox://styles/mapbox/outdoors-v10',
+  style: 'mapbox://styles/mapbox/v4/mapbox.natural-earth-2',
   // style: 'mapbox://styles/mapbox/satellite-v9',
   pitch: 60,
   // maxBounds: [[-150, 20], [ -50, 40]]
