@@ -17,7 +17,7 @@ Aprende a encapsular las propiedades y funcionalidades de las piezas en tu códi
 <img src="https://media.giphy.com/media/UVTCRKcC7bGC2zT1fo/giphy.gif" height="300">
 
 
-### 1. Visualiza datos en archivos locales: JSON
+### 1. Visualiza datos en archivos locales: JSON y CSV
 Incorpora datos desde archivos JSON en tu código utilizando la función loadJSON() de p5.js. Explora, modifica y crea “clases” para dibujar distintas formas con sus propias propiedades y métodos que pueden asociarse a los datos importados.
 
 - **1-1_preload-json**  [ [ código ](ejercicios/1-1_preload-json) ]
@@ -32,7 +32,7 @@ Incorpora datos desde archivos JSON en tu código utilizando la función loadJSO
 <img src="https://media.giphy.com/media/VDeYQ7c2HpJ3pwJ9hV/giphy.gif" height="300">
 
 
-### 2. Visualiza datos en archivos locales: CSV/TSV
+### 2. Visualiza datos georreferenciados con mappa.js
 
  [PRÓXIMAMENTE]
 
